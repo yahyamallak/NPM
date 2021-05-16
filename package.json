@@ -1,0 +1,26 @@
+{
+  "name": "npm_test",
+  "version": "1.0.0",
+  "description": "npm test",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yahyamallak/NPM.git"
+  },
+  "author": "yahya mallak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yahyamallak/NPM/issues"
+  },
+  "homepage": "https://github.com/yahyamallak/NPM#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0"
+  }
+}
